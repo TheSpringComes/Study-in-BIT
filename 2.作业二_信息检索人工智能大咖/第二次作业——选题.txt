@@ -1,0 +1,12 @@
+1.人文社科：
+人工智能发展对生产力、生产关系的影响——从马克思主义经济学角度分析
+2.医学/社会热点/人文社科：
+新冠疫情对中国经济发展的影响——从疫情对气候的影响方面分析
+3.理科：
+流行病的数学模型
+(A Kind of SEIR Epidemic Spread Mathematic Model)
+4.工科：
+量子计算机：利用量子计算机和量子算法推进提升机器学习速度的研究
+(Analysis of the Current Academic Attitude Towards Quantum Computer)
+5.工科：
+无人机作战集群化发展趋势的研究
